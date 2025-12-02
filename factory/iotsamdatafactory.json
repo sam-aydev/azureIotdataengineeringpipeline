@@ -1,0 +1,9 @@
+{
+	"name": "iotsamdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6e70755-ccf7-426f-b789-64ea50c4cab8",
+		"tenantId": "d8f546bf-2aa3-469a-8abd-d632e2f8afd9"
+	}
+}
